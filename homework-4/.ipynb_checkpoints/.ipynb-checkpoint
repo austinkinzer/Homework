@@ -415,7 +415,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "These results are consistent near the equilibrium potential and at positive overpotentials, but they diverge for negative overpotentials. This is because the Tafel approximation does not consider reverse current, leading to "
+    "These results are consistent near the equilibrium potential and at positive overpotentials, but they diverge for negative overpotentials. This is because the Tafel approximation does not consider reverse current. While this is convenient for simple calculations with positive overpotential, it limits its applicability."
    ]
   }
  ],
